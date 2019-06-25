@@ -1,0 +1,2 @@
+# sc
+Protect bots
